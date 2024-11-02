@@ -1,7 +1,7 @@
-export default function Home() {
-  return (
-    <main>
-      <h1>Hello, Next</h1>
-    </main>
-  );
+// Criar página page.tsx
+
+const Page = () => {
+  return <div>Criando a página HOME</div>
 }
+
+export default Page
